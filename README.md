@@ -4,7 +4,6 @@
 
 > From concept to product — built for real-world testing and continuous improvement.
 
----
 
 ## Features
 
@@ -27,7 +26,7 @@
 
 ---
 
-## 📥 Download
+## Download
 
 👉 Go to the **Releases** section to download the latest version:
 
