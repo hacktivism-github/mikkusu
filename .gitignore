@@ -1,1 +1,29 @@
+# macOS
+.DS_Store
 
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userprefs
+
+# Xcode
+*.xcworkspace
+xcuserdata/
+DerivedData/
+
+# Build outputs
+**/Builds/**/x64/
+**/Builds/**/Release/
+**/Builds/**/Debug/
+**/build/
+**/bin/
+**/obj/
+
+# Installer outputs
+*.msi
+*.exe
+*.dmg
+*.pkg
